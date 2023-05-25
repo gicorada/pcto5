@@ -163,3 +163,7 @@ header {
 		transform: translateZ(0) scale(1.4);
 	}
 }
+
+.blob-btn:hover {
+	box-shadow: 0 0 30px #2098D1;
+}
